@@ -24,7 +24,7 @@ def cap_acc_rate(probs, y_test):
     Parameters
     ----------
     probs : Numpy Array of float64
-        Probabilities that predicted class is 1.
+        Probabilities that predicted class is 1..
     y_test : Numpy Array of int64
         Testing sample of dependent value.
 
