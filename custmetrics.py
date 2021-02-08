@@ -18,6 +18,7 @@ from sklearn.feature_selection import RFECV
 from sklearn.ensemble import RandomForestClassifier
 
 def cap_acc_rate(probs, y_test):
+  #drobna zmiana
     '''
     Calculates Accuracy Rate for Cumulative Accuracy Profile Curve
 
