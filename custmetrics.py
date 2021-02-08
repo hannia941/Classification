@@ -19,8 +19,6 @@ from sklearn.ensemble import RandomForestClassifier
 
 def cap_acc_rate(probs, y_test):
     '''
-    Calculates Accuracy Rate for Cumulative Accuracy Profile Curve
-
     Parameters
     ----------
     probs : Numpy Array of float64
