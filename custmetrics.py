@@ -31,7 +31,7 @@ def cap_acc_rate(probs, y_test):
     Returns
     -------
     acc_rate: float64
-        Accuracy Rate based on CAP.
+        Accuracy Rate based on CAP..
 
     '''
     total = len(y_test)
