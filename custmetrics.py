@@ -16,7 +16,7 @@ from sklearn.neighbors import KNeighborsClassifier
 from sklearn.model_selection import StratifiedKFold
 from sklearn.feature_selection import RFECV
 from sklearn.ensemble import RandomForestClassifier
-
+#komentarz
 def cap_acc_rate(probs, y_test):
     '''
     Parameters
