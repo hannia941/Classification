@@ -20,5 +20,5 @@ def power_x(x):
 
     '''
     total = x * x
-    
+    #more info
     return total
